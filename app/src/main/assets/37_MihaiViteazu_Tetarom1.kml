@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>37_MihaiViteazu_Tetarom1.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>37_MihaiViteazu_Tetarom1</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>Piata Mihai Viteazu</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>23.5913443548103</longitude>
+				<latitude>46.77498239149372</latitude>
+				<altitude>0</altitude>
+				<heading>0.004554453599699089</heading>
+				<tilt>28.84214820586913</tilt>
+				<range>659.0931306993651</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.59165571287471,46.77498261475407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>37_mihaiV_tetarom1</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					23.59149187001345,46.77508989907086,0 23.59093413334033,46.77545420703046,0 23.59061768301348,46.77553132846484,0 23.58996264784394,46.77514105364244,0 23.58896161888433,46.77446489162185,0 23.58816833299246,46.77392867559097,0 23.58800999881243,46.77394688939422,0 23.58753042585516,46.77447038809723,0 23.58741541451234,46.77462540797439,0 23.58719474870241,46.77469150538778,0 23.58675730890001,46.77469885977534,0 23.58629998381001,46.77473025299375,0 23.58607746547667,46.77485955388595,0 23.58565280209541,46.77535818679477,0 23.58495279959173,46.77617270198984,0 23.58438336978904,46.7768604512507,0 23.58356846071462,46.77820353248834,0 23.58325676921811,46.77868839615099,0 23.58294545126092,46.7789719897395,0 23.58261164301545,46.77930514213438,0 23.58229952063405,46.77956481954483,0 23.58234035271353,46.77973793191727,0 23.58212604505954,46.77986985681135,0 23.5816464211017,46.77996777919731,0 23.58012145146786,46.78020037078377,0 23.57782082307895,46.78032455342019,0 23.57642559605224,46.78035114473433,0 23.57566453159632,46.78035941346166,0 23.57265425930786,46.78029555563309,0 23.57126339750571,46.78025037771767,0 23.56923083694984,46.78012597670826,0 23.56797810568314,46.78011361878139,0 23.56656124844679,46.7801076890393,0 23.56527674400572,46.78020337982166,0 23.56363160959857,46.78032223799612,0 23.56300697068488,46.78038673137374,0 23.56239677623505,46.78055600491792,0 23.56199290646416,46.78060679961085,0 23.56171773603127,46.78053667075957,0 23.56139871662693,46.78034001861101,0 23.5612381287992,46.7801552553378,0 23.5610613889471,46.78010631529467,0 23.56079947457735,46.78019483645137,0 23.56065456259745,46.78033653205619,0 23.56029289566273,46.78051873668108,0 23.55936180080064,46.78052846124135,0 23.55839262554569,46.78052073230011,0 23.55764636920207,46.78050591323308,0 23.55751109622501,46.78043892426346,0 23.55745092207717,46.78028193036043,0 23.55744735281818,46.78007889173482,0 23.55747202271854,46.77960754712725,0 23.55760480569538,46.77939284100561,0 23.55790973011299,46.77930219868832,0 23.55856593178715,46.77935805721084,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Emil Racovita</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>23.58016664425643</longitude>
+				<latitude>46.77938174332634</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003590915059360464</heading>
+				<tilt>28.84157471287199</tilt>
+				<range>617.9051213474152</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.58190566905146,46.77995633293479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Arena CFR</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>23.57776606400029</longitude>
+				<latitude>46.78016340250608</latitude>
+				<altitude>0</altitude>
+				<heading>-0.005340285254619647</heading>
+				<tilt>28.84160607818882</tilt>
+				<range>625.1443515059742</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.57610817489422,46.7803759980262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Radauti</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>23.5725350406654</longitude>
+				<latitude>46.78051644701849</latitude>
+				<altitude>0</altitude>
+				<heading>-0.009152258870414959</heading>
+				<tilt>28.84163885733025</tilt>
+				<range>632.7098956980703</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.57180122234429,46.78027741801946,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brediceanu</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>23.56583789958166</longitude>
+				<latitude>46.78072012307229</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01403263377438438</heading>
+				<tilt>28.84172694252315</tilt>
+				<range>653.0401996866831</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.56600551448326,46.78016529970788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bariera CFR</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>23.56417907931072</longitude>
+				<latitude>46.78105958586401</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01524145757506476</heading>
+				<tilt>28.84173805547472</tilt>
+				<range>655.6050843630811</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.56267933623979,46.78045270152225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tetarom BT</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>23.55931556534026</longitude>
+				<latitude>46.78081094329163</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01878563415594058</heading>
+				<tilt>28.84172894287327</tilt>
+				<range>653.5019318948882</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.55806302468741,46.78050308488589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tetarom</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>23.55923248621518</longitude>
+				<latitude>46.78062187618189</latitude>
+				<altitude>0</altitude>
+				<heading>-0.01884617451011742</heading>
+				<tilt>28.84172561740776</tilt>
+				<range>652.7343237422477</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>23.55877514046873,46.7793453952869,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
